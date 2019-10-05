@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web application
+Welcome to the AWS CodeStar react Ecommerce application
 ==================================================
 
 This sample code helps get you started with a simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
@@ -62,3 +62,7 @@ should also regularly review and apply any available patches or associated secur
 advisories for dependencies used within your application.
 
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
+
+## Author
+
+Voke Olomu
